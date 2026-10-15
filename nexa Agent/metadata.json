@@ -1,0 +1,8 @@
+{
+  "name": "Nexa",
+  "description": "Interactive Nexa Generative AI Assistant for learning, career guidance, text generation, image creation, and multimodal document understanding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
